@@ -15,8 +15,8 @@ I'm undergraduate student in Computing & Information Systems of Sabaragamuwa Uni
 -  Pronouns: ...
 - ⚡ Fun fact: ... -->
 ### Languages, Framworks and Tools
-<img align="left"  width="26px" src="https://blog.nebrass.fr/wp-content/uploads/java-logo.png" />
-<img align="left" alt="codeSTACKr | javascript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left"  width="28px" src="https://blog.nebrass.fr/wp-content/uploads/java-logo.png" />
+<img align="left" alt="codeSTACKr | javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
