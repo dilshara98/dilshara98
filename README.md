@@ -3,10 +3,10 @@
 <!--
 **dilshara98/dilshara98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I'm undergraduate student in Computing & Information Systems of Sabaragamuwa University of Sri Lanka.
+I'm graduate student in Computing & Information Systems of Sabaragamuwa University of Sri Lanka.
 
-- 🔭 I’m currently working My mini project MediCareINFORMATION Project
-- 🌱 I’m currently learning Django, Laravel, React js
+- 🔭 I’m currently working in DominionTech Systems(pvt) Ltd, as a software Developer(Front-End)
+- 🌱 I’m currently learning Django, Laravel, Java
 - 👯 I’m looking to collaborate on Android, Hybernating
 - 😄 I'm always try to learn something new and interesting.
 <!--- 🤔 I’m looking for help with ... 
